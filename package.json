@@ -1,0 +1,26 @@
+{
+  "name": "military_bot",
+  "version": "1.0.0",
+  "description": "Military bot, made by Spany",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon index.js"
+  },
+  "author": "Spany",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "axios": "^1.4.0",
+    "better-sqlite3": "^8.5.0",
+    "chalk": "^2.4.2",
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.5",
+    "nodemon": "^3.0.1",
+    "os": "^0.1.2",
+    "superagent": "^8.1.2"
+  }
+}
